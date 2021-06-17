@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+html, body{
+	margin: 0;
+}
+
+.match-parent {
+	width: 100vw;
+	height: 100vh;
+	border: 1px solid;
+}
