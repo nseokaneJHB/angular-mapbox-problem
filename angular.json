@@ -31,12 +31,10 @@
             ],
             "styles": [
               "./node_modules/mapbox-gl/dist/mapbox-gl.css",
-              "./node_modules/mapbox-gl/dist/mapbox-gl-directions.css",
               "src/styles.css"
             ],
             "scripts": [
-              "./node_modules/mapbox-gl/dist/mapbox-gl.js",
-              "./node_modules/mapbox-gl/dist/mapbox-gl-directions.js"
+              "./node_modules/mapbox-gl/dist/mapbox-gl.js"
             ]
           },
           "configurations": {
